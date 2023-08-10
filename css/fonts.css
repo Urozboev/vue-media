@@ -1,0 +1,42 @@
+/* Roboto */
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa/Comfortaa-Light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa/Comfortaa-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa/Comfortaa-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url(../fonts/Comfortaa/Comfortaa-bold.ttf);
+    font-weight: 700;
+}
